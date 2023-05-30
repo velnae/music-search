@@ -185,4 +185,18 @@ html, body {
   #search:-moz-placeholder {color: #FFFFFF;}
   #search::-moz-selection {color: #FFFFFF; background: rgba(0,0,0,0.25);}
   #search::selection {color: #FFFFFF; background: rgba(0,0,0,0.25);}
-  
+
+  section{
+    /*margin-left: 1em;*/
+  }
+
+  ul{
+    border: 1px solid #FFFFFF;
+    list-style: none;
+    padding-left: 0em;
+  }
+
+  li{
+    border-bottom: 1px solid #FFFFFF;
+    padding: 10px 5px;
+  }
